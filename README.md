@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenji</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on [Hurdl Nfl Guessing Game](https://github.com/KenjiGr/hurdl)
+- 🔭 I’m currently working on [Hurdl Nfl Guessing Game](https://github.com/KenjiGr/nfl-wordle)
 
 - 🌱 I’m currently learning **Python**
 
